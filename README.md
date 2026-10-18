@@ -2,6 +2,15 @@
 
 这是可直接作为静态网站打开的独立资料包，首页为 [index.html](index.html)。内容包括按章讲义、离线答题网页、真题索引、题目册、答案解析册、复核记录和28道额外主观题训练。所有页面及必要数据均在包内；外部资料链接仅在主动点击时访问。
 
+## 在线访问
+
+- [课程首页](https://madnessxiong.github.io/xijinping-thought-introduction-15040/)
+- [按教材章节学习](https://madnessxiong.github.io/xijinping-thought-introduction-15040/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%A1%88.html)
+- [在线答题](https://madnessxiong.github.io/xijinping-thought-introduction-15040/practice.html)
+- [28道大题重点训练](https://madnessxiong.github.io/xijinping-thought-introduction-15040/%E5%A4%A7%E9%A2%98%E5%86%B2%E5%88%BA_20261018.html)
+
+下文的相对链接对应下载后的离线资料包；在 GitHub 上直接进入学习网页，请使用以上在线入口。
+
 ## 课程与教材
 
 - 课程代码15040，3学分。本课程为全国统一命题考试课程；参加助学型“小自考”不等于本课为校考。
