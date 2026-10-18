@@ -1,0 +1,22 @@
+{
+  "batch": "2026.09.26-b5",
+  "total": 1010,
+  "answerable": 1008,
+  "types": {
+    "single": 482,
+    "short": 199,
+    "multiple": 92,
+    "analysis": 164,
+    "blank": 19,
+    "essay": 54
+  },
+  "reviewed_old": [
+    270,
+    274,
+    266
+  ],
+  "new_reviewed": 200,
+  "content_revisions": 9,
+  "source_only_revision": 1,
+  "exact_duplicates": 0
+}

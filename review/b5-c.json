@@ -1,0 +1,3237 @@
+[
+  {
+    "id": "XG15040-D-0013",
+    "verdict": "pass",
+    "reason": "上下游协同与修复监测分别对应整体性、连续治理，答案没有将植树等同全部生态工程。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0014",
+    "verdict": "pass",
+    "reason": "宗旨与根本不可互换；A对应人民安全和政治安全，其他三项均混淆规范定位。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0015",
+    "verdict": "pass",
+    "reason": "国防部强军目标解读明确能打胜仗指向根本职能，D准确，其他项将方向或装备替代能力。",
+    "evidence_urls": [
+      "https://www.mod.gov.cn/gfbw/jmsd/4805225.html"
+    ],
+    "locator": "强军目标内涵段",
+    "access_status": "官方搜索正文片段已读；未取得页面全文",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0016",
+    "verdict": "pass",
+    "reason": "前提基础与从属派生有外交部驻港公署正文支持；未把两制说成两个主权。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0017",
+    "verdict": "pass",
+    "reason": "五项目标在四个正确选项内完整覆盖，B制度同一化不成立；多选键ACDE完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0018",
+    "verdict": "pass",
+    "reason": "政治建设根本性、思想建设基础性有官方党建解读支持，B对应正确，无错位。",
+    "evidence_urls": [
+      "https://djyj.12371.cn/2023/08/21/ARTI1692610058215484.shtml"
+    ],
+    "locator": "党的政治建设统领与思想建设基础性段",
+    "access_status": "官方搜索正文片段已读",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0025",
+    "verdict": "pass",
+    "reason": "效率提升与运行保障分别对应发展与安全；手段服务目标，没有安全绝对化。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0026",
+    "verdict": "pass",
+    "reason": "三不腐各自的震慑、约束、自觉侧重清楚，答案还说明协同而非相互替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0027",
+    "verdict": "fix",
+    "reason": "外交部证据确认文明倡议2023年及治理倡议2025年日期；原题却无教材全文就断言已载教材，需去掉这一未核实断言。",
+    "evidence_urls": [
+      "https://www.fmprc.gov.cn/ziliao_674904/zyjh_674906/202509/t20250901_11699539.shtml"
+    ],
+    "locator": "2025年9月1日讲话提出全球治理倡议；另核2023年3月15日外交部讲话",
+    "access_status": "官方页面正文已取得；教材全文未取得",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-C-202510-029",
+    "verdict": "isolate",
+    "reason": "缺少原题正文/选项，现有主题词或答案字母不能确定作答范围；维持excluded，不计为可答题。",
+    "evidence_urls": [
+      "https://www.cdxgnxx.com/kdzt/lnzt/2025-10-27/1609.html"
+    ],
+    "locator": "原来源缺文条目",
+    "access_status": "本轮核对题库缺文状态，原来源本轮待补访问；不将其认定真题",
+    "grading_review": "保持隔离，不自动或人工计分",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-C-202604-023",
+    "verdict": "isolate",
+    "reason": "缺少原题正文/选项，现有主题词或答案字母不能确定作答范围；维持excluded，不计为可答题。",
+    "evidence_urls": [
+      "https://www.shzkw.org/shzksj/60224.html"
+    ],
+    "locator": "原来源缺文条目",
+    "access_status": "本轮核对题库缺文状态，原来源本轮待补访问；不将其认定真题",
+    "grading_review": "保持隔离，不自动或人工计分",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0077",
+    "verdict": "pass",
+    "reason": "两山理念不意味着任意开发或全部商品化；四项中B保留保护条件。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0078",
+    "verdict": "pass",
+    "reason": "二十大报告第十部分明确国家公园为主体，D是唯一对应实体。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0079",
+    "verdict": "pass",
+    "reason": "先立后破、资源禀赋、分步实施同属报告要求，C运动式切断供给不成立，ABD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0080",
+    "verdict": "pass",
+    "reason": "共同参与与责任差异分别成立，生态环境部气候政策白皮书支持历史责任和能力区别。",
+    "evidence_urls": [
+      "https://www.mee.gov.cn/zcwj/gwywj/202110/t20211027_958030.shtml"
+    ],
+    "locator": "坚持共同但有区别的责任原则",
+    "access_status": "生态环境部搜索正文片段已读",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0081",
+    "verdict": "pass",
+    "reason": "基础是支撑关系而非替代其他领域，A保留经济安全合理定位。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0082",
+    "verdict": "pass",
+    "reason": "风险排查前移对应事前预防，C成立且解析保留事后应急。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0083",
+    "verdict": "pass",
+    "reason": "发展安全、内外、传统非传统均须统筹，D单一国土安全不覆盖整体，ABC完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0084",
+    "verdict": "pass",
+    "reason": "封闭与无防范两个极端都被纠正，答案有具体风险识别和替代保障。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0085",
+    "verdict": "pass",
+    "reason": "绝对领导为根本政治原则，B正确；采购、商业动机和自行选择均不构成该原则。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0086",
+    "verdict": "pass",
+    "reason": "报告明确战斗力唯一根本标准，D对应，外观报道规模不能替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0087",
+    "verdict": "pass",
+    "reason": "2027、2035、本世纪中叶三个节点配对ABD成立；C把中叶目标前移。",
+    "evidence_urls": [
+      "https://www.mod.gov.cn/gfbw/qwfb/yw_214049/4920830.html"
+    ],
+    "locator": "十一个明确之强军目标时间表",
+    "access_status": "国防部搜索正文片段已读，历史战略安排核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0088",
+    "verdict": "pass",
+    "reason": "经济提供资源条件、国防提供安全保障，答案说明双向作用而不虚构投入比例。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0089",
+    "verdict": "pass",
+    "reason": "根本宗旨兼有国家利益与港澳长期繁荣，A完整；另外三项遗漏或否认一国。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0090",
+    "verdict": "pass",
+    "reason": "中央管治与高度自治在宪制内统一，C保留来源和边界，没有主权独立误读。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0091",
+    "verdict": "pass",
+    "reason": "二十大报告对台段支持ABC；D两个中国不属于该政策语境。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0092",
+    "verdict": "pass",
+    "reason": "特色与融入可优势互补，答案未将统一等同制度全部相同。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0093",
+    "verdict": "pass",
+    "reason": "依据是非曲直自主判断对应独立自主和平外交，B正确，不等于孤立。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0094",
+    "verdict": "pass",
+    "reason": "广泛协商、联合国框架对应真正多边主义，D成立；其余属排他或规则随意化。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0095",
+    "verdict": "pass",
+    "reason": "和平发展、公平正义、民主自由完整列六词，ABC成立，强权垄断不属此清单。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0096",
+    "verdict": "pass",
+    "reason": "文明多样性提供互鉴条件，答案同时反对同一化和拒绝学习。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0097",
+    "verdict": "pass",
+    "reason": "报告第一、十五部分支持第二个答案为自我革命，A正确；其余排斥监督纠偏。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0098",
+    "verdict": "pass",
+    "reason": "作风问题关系群众与实干，C合理；取消所有程序并非反形式主义。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0099",
+    "verdict": "pass",
+    "reason": "全面、严、治的范围标准责任分别成立，D纪委包办不成立，ABC完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0100",
+    "verdict": "pass",
+    "reason": "思想教育不能自动替代制度监督，答案针对材料取消监督的错误推论。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0293",
+    "verdict": "pass",
+    "reason": "生态联系整体性决定系统治理，C合理；统一方案和行政割裂均不成立。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0294",
+    "verdict": "pass",
+    "reason": "制度法治提供稳定保障，A准确，口头承诺和产值不能替代责任。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0295",
+    "verdict": "pass",
+    "reason": "减量效率循环属于资源节约，C正确；末端处理不足以概括全过程。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0296",
+    "verdict": "pass",
+    "reason": "自然恢复为主允许必要辅助，A保留生态条件，绝对取消干预不成立。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0297",
+    "verdict": "pass",
+    "reason": "生命周期比单一价格标签更适合评价绿色，D正确且未承诺具体产品结论。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0298",
+    "verdict": "pass",
+    "reason": "生态民生体现广泛生活健康收益，C合理，不限旅游或市场收入。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0299",
+    "verdict": "pass",
+    "reason": "尊重自然与保护发展协调成立，B短期透支、C割裂系统错误，AD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0300",
+    "verdict": "pass",
+    "reason": "源头过程末端形成治理链，C仅移污染未消污染，ABD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0301",
+    "verdict": "pass",
+    "reason": "政府企业公众分别有规则生产消费作用，C单让消费者担责错误，ABD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0302",
+    "verdict": "pass",
+    "reason": "红线保护关键生态功能并形成约束，答案未给个案审批或绝对零利用结论。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0303",
+    "verdict": "pass",
+    "reason": "防治控制损害、修复改善受损功能，答案有区别和相互支撑两部分。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0304",
+    "verdict": "pass",
+    "reason": "生态收益依赖生态质量，答案保留承载力，不把价值实现等同全面商业化。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0305",
+    "verdict": "pass",
+    "reason": "目标与路径节奏有层次，答案说明替代能力和风险，不将稳妥等同停步。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0306",
+    "verdict": "pass",
+    "reason": "污染转移不能证明流域总效果，答案对准行政评价与生态边界不一致。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0307",
+    "verdict": "pass",
+    "reason": "高耗水树种需考虑适生性与承载，答案未反向否定所有植树。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0308",
+    "verdict": "pass",
+    "reason": "全生命周期判断避免标签代替证据，答案并未无数据断定所有新品必然有害。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0309",
+    "verdict": "fix",
+    "reason": "官方规范是促进国际安全为依托；原D选项只写国际安全，需补促进以免缩略误背。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分总论：以促进国际安全为依托",
+    "access_status": "官方正文已取得",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0310",
+    "verdict": "pass",
+    "reason": "根本地位与其他安全协同并存，C合理；其余孤立政治安全或以经济替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0311",
+    "verdict": "pass",
+    "reason": "公共卫生跨境风险是非传统议题，A明确区别于其余军事冲突项。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0312",
+    "verdict": "pass",
+    "reason": "忧患意识要求理性研判准备，B正确；恐慌及全面拒绝活动不是底线思维。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0313",
+    "verdict": "pass",
+    "reason": "发展能力与安全条件双向支持，A成立，其他三项绝对分割或替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0314",
+    "verdict": "pass",
+    "reason": "列举法治战略政策监测属体系建设，C对准层级，其余只有单项投入。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0315",
+    "verdict": "pass",
+    "reason": "传统非传统、自身共同安全须统筹；B忽视风险D放弃塑造错误，AC完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0316",
+    "verdict": "pass",
+    "reason": "监测、演练、反馈属于完整能力链，B临时找负责人缺事前机制，ACD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0317",
+    "verdict": "pass",
+    "reason": "理性识别、日常联系、依法义务均合理，D不同观点泛化为威胁错误，ABC完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0318",
+    "verdict": "pass",
+    "reason": "维护偏底线防范，塑造偏改善条件，答案未把塑造理解为挑起冲突。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0319",
+    "verdict": "pass",
+    "reason": "人民既是价值归宿又参与主体，答案同时回应目的和力量。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0320",
+    "verdict": "pass",
+    "reason": "正常合作与具体适度风险措施可兼容，答案保留依法和实际条件。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0321",
+    "verdict": "pass",
+    "reason": "预案必须有人员资源训练才能运行，答案有演练反馈的可操作性检验。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0322",
+    "verdict": "pass",
+    "reason": "轻重风险一刀切不相称，答案分级评估并保留升级机制。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0323",
+    "verdict": "pass",
+    "reason": "发布接口缺位应明确权限流程，答案不以共同负责空话替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0324",
+    "verdict": "pass",
+    "reason": "永久停产非一般风险唯一解，答案以具体评估替代，保留个案经营边界。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0325",
+    "verdict": "pass",
+    "reason": "人民军队根本宗旨是全心全意为人民服务，B正确，不与三项强军目标混同。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0326",
+    "verdict": "pass",
+    "reason": "绝对领导对应建军之本强军之魂，A准确，其他属技术业务层次。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0327",
+    "verdict": "pass",
+    "reason": "改革破除体制机制障碍，A正确，全部取消制度或改名称不等同改革。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0328",
+    "verdict": "pass",
+    "reason": "科技是能力支撑而需人才组织结合，B正确，其余绝对替代不成立。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0329",
+    "verdict": "pass",
+    "reason": "依法治军要求法规范建设管理，B正确，不等于制度册数量。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0330",
+    "verdict": "pass",
+    "reason": "军地实际支持与协调对应团结，A成立，其余割裂或仅宣传。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0331",
+    "verdict": "pass",
+    "reason": "听党指挥方向与作风优良性质宗旨成立，B删项C装备数量化错误，AD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0332",
+    "verdict": "pass",
+    "reason": "人才科技、理论组织、制度能力协同成立，预算不能自动带来现代化，ACD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0333",
+    "verdict": "pass",
+    "reason": "国防观念、发展理解、依法责任都合理，B限军人否认全民基础，ACD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0334",
+    "verdict": "pass",
+    "reason": "宗旨和密切军民联系共同说明人民性，答案覆盖题问两层。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0335",
+    "verdict": "pass",
+    "reason": "装备条件与体系能力有别，答案提供人才训练保障等条件，并非否定装备。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0336",
+    "verdict": "pass",
+    "reason": "改革动力与法治规范成果相联系，答案不支持改革无规则。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0337",
+    "verdict": "pass",
+    "reason": "规划、规则责任、资源三个层次衔接，答案没有未经依据的比例指标。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0338",
+    "verdict": "pass",
+    "reason": "培训和维护落后是技术转化条件不足，答案对准材料而非继续采购。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0339",
+    "verdict": "pass",
+    "reason": "规章装订不是制度实施，答案落实监督执行，未对真单位作事实断言。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0340",
+    "verdict": "pass",
+    "reason": "职责流程和沟通可解决协作拖延，答案把团结落实为具体工作。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0341",
+    "verdict": "pass",
+    "reason": "一国是两制前提，D正确，其他都制造主权分立。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0342",
+    "verdict": "pass",
+    "reason": "宪法基本法共同构成宪制基础，C正确，不由合同惯例替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0343",
+    "verdict": "pass",
+    "reason": "自治有授权来源和法定边界，B准确，解释没有缩为仅行政权。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0344",
+    "verdict": "pass",
+    "reason": "爱国者治港治澳为报告治理要求，B合理；其余否认国家主权或两制特色。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0345",
+    "verdict": "pass",
+    "reason": "基本方针为和平统一一国两制，B正确；产业措施并非完整方针。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0346",
+    "verdict": "pass",
+    "reason": "选项A完整反映中国官方一个中国原则三层，说明已保留政策语境。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0347",
+    "verdict": "pass",
+    "reason": "特色与融入、管治与自治要统一，A分裂B收益替代安全错误，CD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0348",
+    "verdict": "pass",
+    "reason": "理解、民生机会、正常合作有助交流，A必然消除所有分歧过强，BCD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0349",
+    "verdict": "pass",
+    "reason": "宪制、权限、责任都为依法治理要求，B个人偏好替代程序错误，ACD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0350",
+    "verdict": "pass",
+    "reason": "外交部驻港公署正文区分最高原则和根本宗旨，答案后一项保留港澳长期繁荣。",
+    "evidence_urls": [
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第二节第（一）项，根本宗旨及最高原则",
+    "access_status": "外交部驻港公署正文已取得",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0351",
+    "verdict": "pass",
+    "reason": "深层结构和民生不能用当期增速替代，答案没有无证断定具体矛盾规模。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0352",
+    "verdict": "pass",
+    "reason": "目标和方式不等同，答案说明统一与和平路径而未改写基本方针。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0353",
+    "verdict": "pass",
+    "reason": "认同与实际受益可能相互支持，答案保留长期制度条件，未宣称唯经济决定。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0354",
+    "verdict": "pass",
+    "reason": "自治程度高不能推出无宪制边界，答案反驳的是无限自治推论。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0355",
+    "verdict": "pass",
+    "reason": "区域协同不等于产业同构，答案尊重特色和合理分工。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0356",
+    "verdict": "pass",
+    "reason": "人数是投入参与量而非长期互动成效，答案建议持续合作反馈合理。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0357",
+    "verdict": "pass",
+    "reason": "外交宗旨为维护和平促进共同发展，D准确，与方式倡议不混称。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0358",
+    "verdict": "pass",
+    "reason": "互不干涉内政是五项原则内容，C正确，其余输出强权均相反。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0359",
+    "verdict": "pass",
+    "reason": "新型国际关系对应尊重、公平正义、共赢，D完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0360",
+    "verdict": "pass",
+    "reason": "国际体系核心为联合国，C正确，与秩序基础国际法区别清楚。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0361",
+    "verdict": "pass",
+    "reason": "国际秩序基础为国际法，A正确，其余国内或单边规则不能替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0362",
+    "verdict": "pass",
+    "reason": "协商参与成果对应共商共建共享，D正确，并区别后续倡议名称。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0363",
+    "verdict": "pass",
+    "reason": "A含平等互利和平共处、D主权领土完整正确；C把互不干涉改相互干涉，AD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0364",
+    "verdict": "pass",
+    "reason": "文明多样性发展共同挑战都吻合共同体，D文明同一化相反，ABC完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0365",
+    "verdict": "pass",
+    "reason": "合理参与协商和宪章符合真正多边，排他圈子不符合，BCD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0366",
+    "verdict": "pass",
+    "reason": "自主决策可选择平等合作，答案没有把独立自主误作孤立。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0367",
+    "verdict": "pass",
+    "reason": "伙伴关系允许分歧中合作，答案没有承诺所有立场一致。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0368",
+    "verdict": "pass",
+    "reason": "差异提供互鉴资源又需辨析，答案同时避免文明优越论和全盘接收。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0369",
+    "verdict": "pass",
+    "reason": "共商程序共建行动共享受益的区分正确，未要求贡献和所得机械同量。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0370",
+    "verdict": "pass",
+    "reason": "主权平等不能按经济总量剥夺，答案保留具体组织程序另核边界。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0371",
+    "verdict": "pass",
+    "reason": "文化模仿要求误将差异排序，答案允许有鉴别互学而非无条件接受。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0372",
+    "verdict": "pass",
+    "reason": "总收益不能保证各方公平净收益，答案提出责任风险机制而非均分钱。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0373",
+    "verdict": "pass",
+    "reason": "新时代党建主线含长期执政能力、先进性纯洁性，D正确，与统领层次有别。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0374",
+    "verdict": "pass",
+    "reason": "组织路线服务政治路线，B正确，其他为孤立人事或个人层面。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0375",
+    "verdict": "pass",
+    "reason": "德才兼备以德为先任人唯贤符合报告，A正确，单一量化或关系标准不充分。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0376",
+    "verdict": "pass",
+    "reason": "政治纪律规矩在严明纪律中居首，C正确，事务格式不可替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0377",
+    "verdict": "pass",
+    "reason": "八项规定从作风和群众联系切入，A准确，不应推成取消正常公务。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0378",
+    "verdict": "pass",
+    "reason": "正视问题四个自我符合自我革命，B正确，其余回避和外推责任错误。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0379",
+    "verdict": "pass",
+    "reason": "政治思想组织与制度贯穿反腐均成立，A取消纪律C培训替代不成立，BD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0380",
+    "verdict": "pass",
+    "reason": "四个自我都由ABC覆盖，D豁免监督相反，集合完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0381",
+    "verdict": "pass",
+    "reason": "监督需贯通责任程序整改，C任意接受监督不成立，ABD完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项核对完整正确集合",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0382",
+    "verdict": "pass",
+    "reason": "风险变化支持常态监督教育机制，答案保留阶段措施可变化。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0383",
+    "verdict": "pass",
+    "reason": "思想方向与组织载体互相支撑，答案未将人员数量当思想成效。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0384",
+    "verdict": "pass",
+    "reason": "查处与漏洞预防需结合，答案不以制度问题免除个人责任。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0385",
+    "verdict": "pass",
+    "reason": "基层组织须用服务行动转化优势，答案区分存在条件与实际效能。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0386",
+    "verdict": "pass",
+    "reason": "数字重复填报仍可能形式主义，答案使用可能并按真实负担判断。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0387",
+    "verdict": "pass",
+    "reason": "通报后责任复核缺位是监督断点，答案补闭环而非文件增量。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0388",
+    "verdict": "pass",
+    "reason": "荣誉不证当下无问题，答案同时保留过去成就与核查新事实。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0399",
+    "verdict": "pass",
+    "reason": "答案覆盖生产基础、绿色转型和健康生活两端，并补制度参与，回应发展和民生双重关系。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0400",
+    "verdict": "pass",
+    "reason": "自我检视与人民外部监督有不同信息功能，答案没有把自我革命解释为排除人民监督。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0665",
+    "verdict": "pass",
+    "reason": "文明形态涉及生产生活价值系统变化，D合理，项目部门变化不足以概括。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0666",
+    "verdict": "pass",
+    "reason": "生态补偿协调贡献与公共受益，D准确，没有把保护责任移交消费者。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0667",
+    "verdict": "pass",
+    "reason": "健康资源改善可支撑持续生产，C成立，不能保证所有企业即时利润。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0668",
+    "verdict": "pass",
+    "reason": "总体均值掩盖群体暴露，A补分配维度，投入宣传不是对应结果证据。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0669",
+    "verdict": "pass",
+    "reason": "具备自主恢复条件后调整辅助并监测合理，C成立，停止监测不成立。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0670",
+    "verdict": "pass",
+    "reason": "枯水栖息地分别超出污染浓度，A覆盖水资源水环境水生态三维。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0671",
+    "verdict": "pass",
+    "reason": "识别重点、机理技术、权限程序依次精准科学依法，D顺序正确。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0672",
+    "verdict": "pass",
+    "reason": "设计生产使用回收构成全过程，A准确，其余集中末端或改名不足。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0673",
+    "verdict": "pass",
+    "reason": "减少占地与提高单位利用效率对应节约集约，C正确且不误解为越密越好。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0674",
+    "verdict": "pass",
+    "reason": "题设已给峰后持续下降仍净排放正，A符合达峰与中和区别。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0675",
+    "verdict": "pass",
+    "reason": "无范围数据方法便缺核算基础，B准确；标签不能证排放变化。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0676",
+    "verdict": "pass",
+    "reason": "已有责任但无核查追责，对应落实机制不足，D最直接。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0677",
+    "verdict": "pass",
+    "reason": "甲抹差异乙取消共同责任，两者均片面，C准确。",
+    "evidence_urls": [
+      "https://www.mee.gov.cn/zcwj/gwywj/202110/t20211027_958030.shtml"
+    ],
+    "locator": "历史责任、发展需求能力不同；不搞一刀切",
+    "access_status": "生态环境部搜索正文片段已读",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0678",
+    "verdict": "pass",
+    "reason": "季节后反复退化质疑长期维持，B稳定持续是应补维度。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0679",
+    "verdict": "pass",
+    "reason": "生态承载恢复限度导致代际责任，答案既讲合理利用又防透支。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0680",
+    "verdict": "pass",
+    "reason": "保护补偿与损害责任功能对象不同，答案保留具体制度另核。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0681",
+    "verdict": "pass",
+    "reason": "污染物温室气体不同但可能同工艺协同，答案不承诺等比例减少。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0682",
+    "verdict": "pass",
+    "reason": "规则监管、生产责任、消费监督有分工，答案不把产业责任转个人。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0683",
+    "verdict": "pass",
+    "reason": "无基线、择时、无追踪各影响不同证据环节，答案完整对应三处。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0684",
+    "verdict": "pass",
+    "reason": "单树成活率不能代替多样性稳定性，答案针对清除乡土植物的系统问题。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0685",
+    "verdict": "pass",
+    "reason": "包装回收只证局部，答案指出全生命周期断言超证据范围。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0686",
+    "verdict": "pass",
+    "reason": "长期生产与公共收益不等于每措施当期盈利，论证兼有促进机制和边界。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0687",
+    "verdict": "pass",
+    "reason": "总体性要有接口责任评估，D合理，不能用机构数或各自达标替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0688",
+    "verdict": "pass",
+    "reason": "政权制度意识形态归政治安全，C正确，没有与人民安全宗旨混同。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0689",
+    "verdict": "pass",
+    "reason": "来源单一替代薄弱涉及供应连续韧性，A最直接；当期产量不能代替。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0690",
+    "verdict": "pass",
+    "reason": "报告海外合法权益保护支持C统筹海外与国内，解释排除泛化经营损失。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0691",
+    "verdict": "pass",
+    "reason": "能源影响多部门体现风险链传导，B正确，不可只处理最初领域。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0692",
+    "verdict": "pass",
+    "reason": "外部冲击经内部薄弱点放大，A内外统筹最直接，其他关系非此题主轴。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0693",
+    "verdict": "pass",
+    "reason": "持续沟通合作改善未来条件，D体现塑造，未承诺风险绝迹。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0694",
+    "verdict": "pass",
+    "reason": "准备基于可能后果而非必然发生，D正确，解析仍要求事实配置资源。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0695",
+    "verdict": "pass",
+    "reason": "转发热度不证真伪，D核实再回应合理，片面相信或排除都不成立。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0696",
+    "verdict": "pass",
+    "reason": "群众线索和依法核实构成人民防线，C准确，不以数量代事实。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0697",
+    "verdict": "pass",
+    "reason": "隐患无事故不等于无须整改，D事前预防吻合问题。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0698",
+    "verdict": "pass",
+    "reason": "当期丰收不保证持续产能，C兼看耕地种业条件合理。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0699",
+    "verdict": "pass",
+    "reason": "能源供给涉及产供储销多个环节，B正确，生产一端不充分。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0700",
+    "verdict": "pass",
+    "reason": "教育应提高依法理性识别，D正确，其他扩大怀疑或跳过核实。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0701",
+    "verdict": "pass",
+    "reason": "必要投入与资源约束同时成立，答案反对把安全名义当免责评价。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0702",
+    "verdict": "pass",
+    "reason": "风险可沿领域链扩散，答案保留牵头与协同而不要求无差别全员参与。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0703",
+    "verdict": "pass",
+    "reason": "法治明确权限程序责任，答案避免安全目标豁免程序。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0704",
+    "verdict": "pass",
+    "reason": "合作互信与自身能力分别有作用，答案既重他方关切又保留自主履责。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0705",
+    "verdict": "pass",
+    "reason": "预警需范围渠道更新形成可行动信息，答案保留敏感细节界限。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0706",
+    "verdict": "pass",
+    "reason": "联合接口失灵不能由单部门优秀排除，答案对准协同而非重复演练。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0707",
+    "verdict": "pass",
+    "reason": "未事故不能单独识别措施因果效果，答案双向防止无效或有效武断。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0708",
+    "verdict": "pass",
+    "reason": "识别预防处置复盘形成过程链，答案以发展安全相互支持收束。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十一部分国家安全；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0709",
+    "verdict": "pass",
+    "reason": "党的组织体系落实领导提供依托，D正确，数量和孤立体系不能替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0710",
+    "verdict": "pass",
+    "reason": "军史文化战斗精神属政治工作精神培育，B准确，其余资产业务不对应。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0711",
+    "verdict": "pass",
+    "reason": "国防部权威解读确认军委管总战区主战军种主建，C无错位。",
+    "evidence_urls": [
+      "https://www.mod.gov.cn/gfbw/qwfb/16244402.html"
+    ],
+    "locator": "改革后军委管总战区主战军种主建新格局",
+    "access_status": "国防部搜索正文片段已读；直接打开报错",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0712",
+    "verdict": "pass",
+    "reason": "论证成果到体系能力尚需转化，B正确，未把成果登记量等效能力。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0713",
+    "verdict": "pass",
+    "reason": "岗位脱节应连接培养使用评价，A正确，人数学历不解决结构缺口。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0714",
+    "verdict": "pass",
+    "reason": "权限责任监督使运行可追责，C准确，依法治军不限基层服从。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0715",
+    "verdict": "pass",
+    "reason": "强军目标与建设路径回答不同层次，C正确，不混列时间表或采购比例。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0716",
+    "verdict": "pass",
+    "reason": "军委主席负责制为绝对领导根本实现形式有国防部证据，A准确。",
+    "evidence_urls": [
+      "https://www.mod.gov.cn/gfbw/qwfb/16244402.html"
+    ],
+    "locator": "军委主席负责制根本制度和根本实现形式",
+    "access_status": "国防部搜索正文片段已读；直接打开报错",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0717",
+    "verdict": "pass",
+    "reason": "三化侧重形态融合，四现代化侧重内容，A准确，不与军种年份混淆。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0718",
+    "verdict": "pass",
+    "reason": "报告将强军定位现代化国家战略要求，C正确，不限内部年度。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0719",
+    "verdict": "pass",
+    "reason": "报告战略管理同时提国防资源效益，B准确，成本下降不是唯一尺度。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0720",
+    "verdict": "pass",
+    "reason": "荣誉与权益分别精神制度支持，D正确，不能相互替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0721",
+    "verdict": "pass",
+    "reason": "各自规划不等于接口协调，C对准需求时序标准脱节。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0722",
+    "verdict": "pass",
+    "reason": "动员和后备体现组织保障，A准确，不推导私人行动或经济永久军事化。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0723",
+    "verdict": "pass",
+    "reason": "方向宗旨和有效履责能力不同又相关，答案不以表态替能力。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0724",
+    "verdict": "pass",
+    "reason": "理论指导实践又回应技术新问题，答案否认装备更新自动使理论现代化。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0725",
+    "verdict": "pass",
+    "reason": "严格应在法规权限程序内，答案不鼓励无限加码处分。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0726",
+    "verdict": "pass",
+    "reason": "常态服务保障联系个体权益与军民信任，答案无具体待遇虚构。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0727",
+    "verdict": "pass",
+    "reason": "任务遗漏重复需整体需求责任资源协同，答案保留依法职责边界。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0728",
+    "verdict": "pass",
+    "reason": "制度文本需反馈执行适应条件，答案要求依程序而非自行废止。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0729",
+    "verdict": "pass",
+    "reason": "照片服装非学习目标证据，答案不否定一切仪式形式。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0730",
+    "verdict": "pass",
+    "reason": "政治方向、改革机制、科技人才、法治运行作用分别清楚，答案为理论路径而非作战操作。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十二部分国防军队；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0731",
+    "verdict": "pass",
+    "reason": "基本法第十二条三要素均在B，地方行政区不等于独立主权。",
+    "evidence_urls": [
+      "https://www.basiclaw.gov.hk/tc/basiclaw/chapter2.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十二条",
+    "access_status": "官方页索引已取得；对应条文搜索全文片段已读",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0732",
+    "verdict": "pass",
+    "reason": "报告长期保持两制置于统一宪制内，D成立，不能推出国家主体改制。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0733",
+    "verdict": "pass",
+    "reason": "第十三条分外交与获授权对外事务，D准确，不将经贸联系当主权。",
+    "evidence_urls": [
+      "https://www.basiclaw.gov.hk/tc/basiclaw/chapter2.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三条",
+    "access_status": "官方页索引已取得；对应条文搜索全文片段已读",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0734",
+    "verdict": "pass",
+    "reason": "第十四条防务中央、治安特区政府，D顺序正确，题干已限定一般职责。",
+    "evidence_urls": [
+      "https://www.basiclaw.gov.hk/tc/basiclaw/chapter2.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十四条",
+    "access_status": "官方页索引已取得；对应条文搜索全文片段已读",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0735",
+    "verdict": "pass",
+    "reason": "报告明确支持行政长官和特区政府，C准确，行政主导非免权限约束。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0736",
+    "verdict": "pass",
+    "reason": "政治基础不能替实际履职，D合理，其他任一替代均不成立。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0737",
+    "verdict": "pass",
+    "reason": "根本宗旨同时包含国家利益与港澳繁荣，A揭示割裂，非单看短期经济。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0738",
+    "verdict": "pass",
+    "reason": "基本法第二十一条支持居民中国公民依法参与，B正确，非所有人任意职权。",
+    "evidence_urls": [
+      "https://www.basiclaw.gov.hk/tc/basiclaw/chapter2.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第二十一条",
+    "access_status": "官方页面待补读该条正文",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0739",
+    "verdict": "pass",
+    "reason": "报告同时列对外合作和国家融入，D互补成立，国际联系不自动替代治理。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0740",
+    "verdict": "pass",
+    "reason": "优势需制度需求衔接才成实际能力，B合理，题中保留依法与民生。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0741",
+    "verdict": "pass",
+    "reason": "中国官方界定属统一内政，C匹配，解释明确非国际各方一致判断。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0742",
+    "verdict": "pass",
+    "reason": "政治基础与工作实践两个层级，D准确，不把交往统计当主权基础。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0743",
+    "verdict": "pass",
+    "reason": "学习就业生活真实体验可评福祉，C合理，不能从参与推定态度一致。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0744",
+    "verdict": "pass",
+    "reason": "争取和平并非无条件放弃其他选项，D不改写原承诺范围。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0745",
+    "verdict": "pass",
+    "reason": "第十八条一般附件三机制与特殊情形须区分，答案已保留例外不作一概结论。",
+    "evidence_urls": [
+      "https://www.basiclaw.gov.hk/tc/basiclaw/chapter2.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十八条",
+    "access_status": "官方页面待补读该条正文",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0746",
+    "verdict": "pass",
+    "reason": "宪制来源到权责程序相衔接，答案非仅效率判合法。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0747",
+    "verdict": "pass",
+    "reason": "行政主导不取消基本法边界，答案兼顾程序与履职，不二选一。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0748",
+    "verdict": "pass",
+    "reason": "受益与了解提供持续交流基础，答案未虚构所有人态度一致。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0749",
+    "verdict": "pass",
+    "reason": "第十三条授权对外事务不构成独立外交主权，答案正确区分层级。",
+    "evidence_urls": [
+      "https://www.basiclaw.gov.hk/tc/basiclaw/chapter2.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三条",
+    "access_status": "官方页索引已取得；对应条文搜索全文片段已读",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0750",
+    "verdict": "pass",
+    "reason": "共同目标不自动统一法定办学资格程序，答案要求依法接口核查。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0751",
+    "verdict": "pass",
+    "reason": "部分积极评价不能全称外推民意，答案区分政策期望与证据结论。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0752",
+    "verdict": "pass",
+    "reason": "统一安全、宪制、特色、民生各有作用，答案保留两制差异并限定课程政策语境。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html",
+      "https://hk.ocmfa.gov.cn/gjlc/202306/t20230606_11090365.htm"
+    ],
+    "locator": "第十三部分港澳和统一；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0753",
+    "verdict": "pass",
+    "reason": "报告周边外交亲诚惠容，C准确，真实亲诚对象不同。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0754",
+    "verdict": "pass",
+    "reason": "报告发展中国家真实亲诚和正确义利观，B准确，四词组无错位。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0755",
+    "verdict": "pass",
+    "reason": "报告大国关系三语为和平共处总体稳定均衡发展，C完整。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0756",
+    "verdict": "pass",
+    "reason": "报告政党四原则列于B，独立平等不等于相互隶属。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0757",
+    "verdict": "pass",
+    "reason": "实质协商不能由参会数量代替，C准确，题设排除协商使A不成立。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0758",
+    "verdict": "pass",
+    "reason": "国际关系准则基础为宪章宗旨原则，D区别体系核心和秩序基础。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0759",
+    "verdict": "pass",
+    "reason": "政策跨国外溢需协调，A合理，不取消各国自主或消灭周期。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0760",
+    "verdict": "pass",
+    "reason": "报告四赤字为和平发展安全治理，C完整，不混财政概念。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0761",
+    "verdict": "pass",
+    "reason": "开放合作拓展共同机会，D准确，不承诺每项交易已公平。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0762",
+    "verdict": "pass",
+    "reason": "报告对话协商对应持久和平，共建共享对应普遍安全，D顺序核对无误。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0763",
+    "verdict": "pass",
+    "reason": "总收益和各方净收益分布不同，A对准成本更快上升条件。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0764",
+    "verdict": "pass",
+    "reason": "差异中有鉴别学习成立，C合理，不等于照搬或文明排名。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0765",
+    "verdict": "pass",
+    "reason": "共同风险使合作必要，具体责任使行动落实，A不取消分工。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0766",
+    "verdict": "pass",
+    "reason": "协商、投入、成果依次共商共建共享，C顺序准确。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0767",
+    "verdict": "pass",
+    "reason": "和平稳定条件与发展合作基础互促，答案没有增长必然消冲突断言。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0768",
+    "verdict": "pass",
+    "reason": "主权平等与依法承诺可并存，答案不推导任意否定义务。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0769",
+    "verdict": "pass",
+    "reason": "共同价值是追求而非制度路径完全同一，答案保留历史文化差异。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0770",
+    "verdict": "pass",
+    "reason": "代表性参与可提升包容可行性，答案仍要求规则实施，不等于特权豁免。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0771",
+    "verdict": "pass",
+    "reason": "正确义利观兼道义合理利益，答案不以只利或完全不计成本替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0772",
+    "verdict": "pass",
+    "reason": "局部网络片段不足以概括文明，答案以多样可靠信息纠正刻板外推。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0773",
+    "verdict": "pass",
+    "reason": "设施建成是投入结果，缺维护便缺持续受益条件，答案对准运营能力。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0774",
+    "verdict": "pass",
+    "reason": "跨境联系形成共同利益，规则责任促进履行，答案不要求同量任务或一方包办。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十四部分世界和平发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0775",
+    "verdict": "pass",
+    "reason": "全面基础、严关键、治要害的顺序C正确，官方党建论述可补证。",
+    "evidence_urls": [
+      "https://djyj.12371.cn/2025/04/16/ARTI1744795451180555.shtml"
+    ],
+    "locator": "第二从对象上健全全面从严治党体系",
+    "access_status": "官方搜索正文片段已读",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0776",
+    "verdict": "pass",
+    "reason": "关键少数是重点不免普通党员责任，B准确，不要求教育强度机械相同。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0777",
+    "verdict": "pass",
+    "reason": "严格标准应日常依法依规执行，B成立，统一最重违背区别情况原则。",
+    "evidence_urls": [
+      "https://www.stats.gov.cn/zs/flfg/tjlydnfghflfg/202409/t20240909_1956316.html"
+    ],
+    "locator": "第四条（三）（四）（五）",
+    "access_status": "国家统计局转载条例搜索条文已读；直接打开超时",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0778",
+    "verdict": "pass",
+    "reason": "纪委监督不能替党委组织责任，B准确，责任书和业务完成不构成免责。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0779",
+    "verdict": "pass",
+    "reason": "判断领悟执行为辨识理解落实贯通，B准确，格式出勤不可替代。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0780",
+    "verdict": "pass",
+    "reason": "远大与共同理想为目标层次联系，A正确，不能当同年工作清单。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0781",
+    "verdict": "pass",
+    "reason": "政治和组织功能相互支持，C准确，机构名称存在不证实际功能。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0782",
+    "verdict": "pass",
+    "reason": "党性党风党纪关联不同性质，A合理，C作风即犯罪错误。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0783",
+    "verdict": "pass",
+    "reason": "纪法范围标准不同，未违法不排除核查，B合理；D把待核强判违纪错误。",
+    "evidence_urls": [
+      "https://www.stats.gov.cn/zs/flfg/tjlydnfghflfg/202409/t20240909_1956316.html"
+    ],
+    "locator": "第七条：纪律追究范围",
+    "access_status": "国家统计局转载条例搜索条文已读；直接打开超时",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0784",
+    "verdict": "pass",
+    "reason": "执政改革市场外部环境为四大考验，C清单准确。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0785",
+    "verdict": "pass",
+    "reason": "精神能力群众腐败为四种危险，A清单准确，与考验区别。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0786",
+    "verdict": "pass",
+    "reason": "严管厚爱需规范与激励并重，B合理，任务难不免纪律。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0787",
+    "verdict": "pass",
+    "reason": "成绩与持续问题可以并存，D合理，不以成绩消除未来风险。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0788",
+    "verdict": "pass",
+    "reason": "自我革命提供领导事业政治能力保障，B合理，不同社会革命混同。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "已逐项排除干扰项并核对唯一答案字母",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0789",
+    "verdict": "pass",
+    "reason": "考验环境与危险自身角度区分清楚，答案还说明相互作用。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0790",
+    "verdict": "pass",
+    "reason": "作风纪律反腐相关不等责，答案明确不将所有作风问题升格犯罪。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0791",
+    "verdict": "pass",
+    "reason": "查案信息、制度整改、教育与反馈形成协同，答案不是三个指标相加。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0792",
+    "verdict": "pass",
+    "reason": "具体精准常态分别对象事项、针对性、持续落实，答案回应一次汇报不足。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0793",
+    "verdict": "pass",
+    "reason": "匿名反映是线索不是事实认定，答案保留程序证据和权利保障。",
+    "evidence_urls": [
+      "https://www.stats.gov.cn/zs/flfg/tjlydnfghflfg/202409/t20240909_1956316.html"
+    ],
+    "locator": "第四条（三）（四）：事实依据、程序",
+    "access_status": "国家统计局转载条例搜索条文已读；直接打开超时",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0794",
+    "verdict": "pass",
+    "reason": "制度条数不证整改效果，答案以回应漏洞执行可行性评价并保留必要约束。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0795",
+    "verdict": "pass",
+    "reason": "职务非制度外私人便利依据，答案不因材料不足直接判处分或违法。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0796",
+    "verdict": "pass",
+    "reason": "发现核实整改预防相连，答案未把承认问题或个案处理当完整自我革命。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十五部分全面从严治党；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  },
+  {
+    "id": "XG15040-D-0799",
+    "verdict": "pass",
+    "reason": "上游保护成本与下游公共受益的跨界联系可推出协商保障机制，答案未虚定补偿金额。",
+    "evidence_urls": [
+      "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+    ],
+    "locator": "第十部分绿色发展；具体题目属依据该理论的概念辨析或自编材料推理，不是官方答案",
+    "access_status": "本轮已读取中国政府网二十大报告相关正文；应用结论另按题设边界审阅，未取得教材全文逐页核验",
+    "grading_review": "参考答案与题问对应，保持人工自评，不做关键词自动阅卷",
+    "review_date": "2026-09-23"
+  }
+]

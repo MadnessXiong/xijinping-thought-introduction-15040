@@ -1,0 +1,22 @@
+{
+  "date": "2026-09-29",
+  "version": "2026.09.29-review",
+  "total": 1023,
+  "answerable": 1021,
+  "D": 1013,
+  "C": 10,
+  "types": {
+    "single": 490,
+    "short": 203,
+    "multiple": 92,
+    "analysis": 165,
+    "blank": 19,
+    "essay": 54
+  },
+  "prior_content_review": 810,
+  "current_structural_review": 1023,
+  "corrected": 99,
+  "added": 13,
+  "issues": 0,
+  "full_verified_papers": 0
+}

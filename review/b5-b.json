@@ -1,0 +1,4969 @@
+{
+  "reviewer": "review_b5_b",
+  "date": "2026-09-23",
+  "scope": "当前bank第6–11章，全部274题本轮重读，不沿用历史review代替",
+  "count": 274,
+  "fix_count": 4,
+  "input_sha256": "166136a4587619efcae5d58969099bdc072131254faddc4b7f515befd3484773",
+  "runtime_checks": 1054,
+  "rows": [
+    {
+      "id": "XG15040-D-0007",
+      "verdict": "pass",
+      "reason": "内外联动限定排除区域协调；B唯一对应开放。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-12/06/c_1128135916.htm",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "新发展理念的创新、协调、开放、共享段与三者关系",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0008",
+      "verdict": "pass",
+      "reason": "教育培养、人才创新、科研反哺相联系，D未排斥开放合作。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0009",
+      "verdict": "pass",
+      "reason": "参与贯穿讨论监督反馈，C；A与B截断过程，D错误替代实效。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0010",
+      "verdict": "pass",
+      "reason": "法治体系比法律体系更广；B为总抓手，干扰项D并非同义。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-01/11/c_1126968072.htm",
+        "https://www.qstheory.cn/dukan/qs/2019-02/15/c_1124114512.htm"
+      ],
+      "locator": "总目标、总抓手、法治体系与中国特色社会主义法治道路相关段落",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0011",
+      "verdict": "pass",
+      "reason": "社会层面ACDE完整；敬业B为个人层面，五选多选集合正确。",
+      "evidence_urls": [
+        "https://www.moe.gov.cn/jyb_xwfb/moe_2082/s7866/s8047/201405/t20140506_168564.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "教育部核心价值观三个层面说明；二十大报告第八部分",
+      "access_status": "教育部官方搜索返回正文片段，直接打开重定向失败；报告正文已读",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0012",
+      "verdict": "pass",
+      "reason": "发展基础、民生目的与反哺双向齐全，未脱离能力无限承诺。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0021",
+      "verdict": "pass",
+      "reason": "否定问法必须选关闭合作渠道C，不能误选国内主体A。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0022",
+      "verdict": "pass",
+      "reason": "所有制、分配、资源配置三项齐全；说明层次互补，非单列所有制。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0023",
+      "verdict": "pass",
+      "reason": "规范术语与可靠完整表达可匹配；法律体系未命中交人工核对，非错判所有自由表达。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-01/11/c_1126968072.htm",
+        "https://www.qstheory.cn/dukan/qs/2019-02/15/c_1124114512.htm"
+      ],
+      "locator": "总目标、总抓手、法治体系与中国特色社会主义法治道路相关段落",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "blank",
+      "reviewed_grading": {
+        "mode": "blank",
+        "accepted": [
+          "法治体系",
+          "中国特色社会主义法治体系",
+          "建设中国特色社会主义法治体系"
+        ],
+        "softMismatch": true
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0024",
+      "verdict": "pass",
+      "reason": "工资初次、公共救助再分配、自愿捐赠第三次对应；慈善不能替公共保障。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0028",
+      "verdict": "pass",
+      "reason": "三者分别对应领导、当家作主、依法治理；未授权绕过法定程序。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-C-202410-029",
+      "verdict": "pass",
+      "reason": "根本制度与三项基本制度分层完整；真实性仍保留C限制。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "仅核对已取得题干的理论答案；不确认原卷真实性",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-C-202504-030",
+      "verdict": "pass",
+      "reason": "按短题干解释为五突出特性，保留来源真实性待核，列项无误。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "仅核对已取得题干的理论答案；不确认原卷真实性",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-C-202604-026",
+      "verdict": "pass",
+      "reason": "回答意义而非措施，包含战略支撑与发展动力；仅理论答案通过，C原卷真实性未升级。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "仅核对已取得题干的理论答案；不确认原卷真实性",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-C-202604-027",
+      "verdict": "pass",
+      "reason": "三层十二项无漏无错位，只回答回忆短题干，非官方评分。",
+      "evidence_urls": [
+        "https://www.moe.gov.cn/jyb_xwfb/moe_2082/s7866/s8047/201405/t20140506_168564.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "教育部核心价值观三个层面说明；二十大报告第八部分",
+      "access_status": "教育部官方搜索返回正文片段，直接打开重定向失败；报告正文已读",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "仅核对已取得题干的理论答案；不确认原卷真实性",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0053",
+      "verdict": "pass",
+      "reason": "首要任务与第一要务不同；高质量发展B是报告对应词。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0054",
+      "verdict": "pass",
+      "reason": "D同时保留市场决定性和政府作用；其余三项将两者绝对化。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0055",
+      "verdict": "pass",
+      "reason": "实体经济、新型工业化、制造业升级三项均有依据；D取消制造业不成立。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0056",
+      "verdict": "pass",
+      "reason": "指出外观单项不足，并可选产业人才公共服务等两个方向；未否定整治本身。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0057",
+      "verdict": "pass",
+      "reason": "立德树人是根本任务；不把根本问题三问直接替代答案。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0058",
+      "verdict": "pass",
+      "reason": "第一资源及育引用用条件恰当；C不将补贴和称号作为全部。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0059",
+      "verdict": "pass",
+      "reason": "ABD支持长期探索与协作；C唯论文错误，合理失败已附尽责诚信前提。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0060",
+      "verdict": "pass",
+      "reason": "总投入不能代替分布和质量，回答公平质量双向要求。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0061",
+      "verdict": "pass",
+      "reason": "事前讨论共识B对应协商形式，未替代法定决策。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0062",
+      "verdict": "pass",
+      "reason": "村居委为群众性自治组织D，不属于行政或人大机关。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0063",
+      "verdict": "pass",
+      "reason": "ABD强调团结与差异包容，C全无差异不成立。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0064",
+      "verdict": "pass",
+      "reason": "意见征集后研究反馈缺失得到回应，不要求无条件采纳全部意见。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0065",
+      "verdict": "pass",
+      "reason": "宪法根本法最高效力C是依据；首先不等于排除普通法律。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0066",
+      "verdict": "pass",
+      "reason": "行政机关依法监管对应A，主体识别恰当。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0067",
+      "verdict": "pass",
+      "reason": "ABD布局均正确；C守法替代执法破坏职责，完整集合无漏。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0068",
+      "verdict": "pass",
+      "reason": "回应片面追速与程序问题，未由疑问直接推定实体不公。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0069",
+      "verdict": "pass",
+      "reason": "D两创同时符合材料，非单纯载体翻新或全盘照搬。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0070",
+      "verdict": "pass",
+      "reason": "B公益事业与经营产业互补，不相互替代基本服务。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0071",
+      "verdict": "pass",
+      "reason": "ABC方向方针效益关系均正确；流量唯一D错误。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0072",
+      "verdict": "pass",
+      "reason": "8月教材与10月提出名称时间不同；高校转载大纲确有该项，不能断言原版已用名称。",
+      "evidence_urls": [
+        "https://www.hep.com.cn/book/show/d57d41a3-c3be-438d-afd8-45d6aaa54e9f",
+        "https://www.gov.cn/yaowen/liebiao/202410/content_6978530.htm?slb=true",
+        "https://www.hnyyyz.com/jxjyb/tzgg/content_29046"
+      ],
+      "locator": "出版社2023-08-28书目；2023年10月名称提出；转载大纲第十章考核条目",
+      "access_status": "出版社与政府官方搜索正文片段；政府直接打开失败；高校转载大纲相关正文已读，未获教材全文",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0073",
+      "verdict": "pass",
+      "reason": "报告最基本民生就业A，未按个人偏好改规范定位。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0074",
+      "verdict": "pass",
+      "reason": "C预防为主结合必要治疗管理，非取消医疗。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0075",
+      "verdict": "pass",
+      "reason": "ACD共建共治共享三面均正确，单方包办B不当。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0076",
+      "verdict": "pass",
+      "reason": "平均收入与困难群体差异分开，兜底风险作用回应材料。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-C-202410-030",
+      "verdict": "pass",
+      "reason": "核心要义三项与道路方向对应，不用总抓手代答；C真实性未升级。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-01/11/c_1126968072.htm",
+        "https://www.qstheory.cn/dukan/qs/2019-02/15/c_1124114512.htm"
+      ],
+      "locator": "总目标、总抓手、法治体系与中国特色社会主义法治道路相关段落",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "仅核对已取得题干的理论答案；不确认原卷真实性",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0197",
+      "verdict": "pass",
+      "reason": "质与量相互支撑，B不将质量替代一切增长。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0198",
+      "verdict": "fix",
+      "reason": "原“重点理解”易与特定时期重点任务混淆；改为主要着眼方面，答案B不变。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "补丁内容已复读；待主任务合并后核验"
+    },
+    {
+      "id": "XG15040-D-0199",
+      "verdict": "pass",
+      "reason": "供需结合B包含双向关系，不将两项战略排斥。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0200",
+      "verdict": "pass",
+      "reason": "着力点是实体经济；D与产业体系要求对应。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0201",
+      "verdict": "pass",
+      "reason": "B同时表述两个毫不动摇；不将非公发展等同公有地位取消。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0202",
+      "verdict": "pass",
+      "reason": "统一市场旨在规则公平和要素流动，非企业合并，B唯一。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0203",
+      "verdict": "pass",
+      "reason": "BC是所给选项中规范总要求；组合项A与D均不应选，解释补足五项。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "B",
+          "C"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0204",
+      "verdict": "pass",
+      "reason": "ABC分别覆盖优势、服务、合作；协调不等于产业相同。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0205",
+      "verdict": "pass",
+      "reason": "ABC覆盖保障、能力和风险识别；最低即时成本不是唯一尺度。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0206",
+      "verdict": "pass",
+      "reason": "回答体系联系及产业配套，符合不能以个别企业代替全体系的问法。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0207",
+      "verdict": "pass",
+      "reason": "解释投入效率而非仅增加投入；保留创新需应用条件。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0208",
+      "verdict": "pass",
+      "reason": "区分统一规则与产业差异，回答能否并存而非只列市场措施。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0209",
+      "verdict": "pass",
+      "reason": "监管与市场机制并不互替；明确不当微观干预边界。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0210",
+      "verdict": "pass",
+      "reason": "积压与唯产量奖励对应供需结构和质量评价；不把所有库存一律否定。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0211",
+      "verdict": "pass",
+      "reason": "采购地域排除与公平竞争冲突对应；没有虚构法律处罚。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0212",
+      "verdict": "pass",
+      "reason": "对土壤和市场差异提出调查分工，非盲目换作物。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0213",
+      "verdict": "pass",
+      "reason": "三问对应根本问题B；与立德树人任务层次有明确区分。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0214",
+      "verdict": "pass",
+      "reason": "第一动力对应创新C；科技生产力与人才资源未错位。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0215",
+      "verdict": "pass",
+      "reason": "党管人才的根本保证与具体设施奖励不同，B。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0216",
+      "verdict": "pass",
+      "reason": "企业主体不等于唯一主体；B说明需求和应用且不排斥高校。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0217",
+      "verdict": "pass",
+      "reason": "基础研究侧重原理和源头知识C，其他项非研究活动。",
+      "evidence_urls": [
+        "https://www.stats.gov.cn/sj/ndsj/2020/html/zb20.htm",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "国家统计局指标解释第基础研究、应用研究和试验发展条目；二十大报告第五部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0218",
+      "verdict": "pass",
+      "reason": "由有学上至上好学连结公平质量，B不否定机会公平。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0219",
+      "verdict": "fix",
+      "reason": "原题“相关战略”无指代；补教育科技人才发展范围及二十大报告语境，BC保持。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "B",
+          "C"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "补丁内容已复读；待主任务合并后核验"
+    },
+    {
+      "id": "XG15040-D-0220",
+      "verdict": "pass",
+      "reason": "ABD包含分类、贡献、周期，C唯数量不成立；完整集合未漏。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0221",
+      "verdict": "fix",
+      "reason": "原题“三者”在随机单题界面无指代；补明教育科技人才，ABD保持。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "补丁内容已复读；待主任务合并后核验"
+    },
+    {
+      "id": "XG15040-D-0222",
+      "verdict": "pass",
+      "reason": "培养与引才分别提供持续基础和交流资源，未排外也不替代本土培养。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0223",
+      "verdict": "fix",
+      "reason": "应用研究也获取新知识，不只是转化使用既有知识；本轮修正定义并保留双向反馈。",
+      "evidence_urls": [
+        "https://www.stats.gov.cn/sj/ndsj/2020/html/zb20.htm",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "国家统计局指标解释第基础研究、应用研究和试验发展条目；二十大报告第五部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "补丁内容已复读；待主任务合并后核验"
+    },
+    {
+      "id": "XG15040-D-0224",
+      "verdict": "pass",
+      "reason": "从长期环境解释一次奖励不足，未否认物质激励。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0225",
+      "verdict": "pass",
+      "reason": "全程育人不否定专门课程；答案直接回应单课局限。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0226",
+      "verdict": "pass",
+      "reason": "基础探索不能统一一个月商品化；同时保留评价诚信，避免全免监督。",
+      "evidence_urls": [
+        "https://www.stats.gov.cn/sj/ndsj/2020/html/zb20.htm",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "国家统计局指标解释第基础研究、应用研究和试验发展条目；二十大报告第五部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0227",
+      "verdict": "pass",
+      "reason": "课程岗位错配对应调查更新和实践，兼顾长期学习能力。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0228",
+      "verdict": "pass",
+      "reason": "校企科研培养接口缺失对应沟通合作，非仅改机构名称。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0229",
+      "verdict": "pass",
+      "reason": "人大制度是政体D，非国体或具体章程。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0230",
+      "verdict": "pass",
+      "reason": "全国人大最高国家权力机关A，未误为国务院或司法机关。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0231",
+      "verdict": "pass",
+      "reason": "否定问法C指行政许可权，政协三项职能本身均可保留。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0232",
+      "verdict": "pass",
+      "reason": "协商和法定程序衔接A，排除事后才协商和任何反对永久否决。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0233",
+      "verdict": "pass",
+      "reason": "否定问法D只投票当天；其余项均是全过程考察。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0234",
+      "verdict": "pass",
+      "reason": "国家统一领导D是自治前提，未混为单独主权。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0235",
+      "verdict": "pass",
+      "reason": "CD均为四统一的真实列项，AB含取消法定约束错误。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "C",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0236",
+      "verdict": "pass",
+      "reason": "BCD政治协商民主监督参政议政齐全；刑事审判不是政协职能。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0237",
+      "verdict": "pass",
+      "reason": "ABD有序渠道公开反馈有效；个人意见不替代规则。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0238",
+      "verdict": "pass",
+      "reason": "意愿经机关程序形成国家意志，未把私人诉求直接当决定。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0239",
+      "verdict": "pass",
+      "reason": "主体领域渠道三维观察广泛性，非唯一官方计分公式。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0240",
+      "verdict": "pass",
+      "reason": "共同基础与合理差异并存，未容许原则无基础。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0241",
+      "verdict": "pass",
+      "reason": "制度和效果结合，程序不能被单次效率替代。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0242",
+      "verdict": "pass",
+      "reason": "基层议事与国家权力机关层级区别明确。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0243",
+      "verdict": "pass",
+      "reason": "多数决不取消少数合理权益保障，未捏造处罚。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0244",
+      "verdict": "pass",
+      "reason": "认可投票率局部作用同时补全后续环节，未否定选举。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0245",
+      "verdict": "pass",
+      "reason": "C完整双目标，与改革总目标和单独总抓手分开。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-01/11/c_1126968072.htm",
+        "https://www.qstheory.cn/dukan/qs/2019-02/15/c_1124114512.htm"
+      ],
+      "locator": "总目标、总抓手、法治体系与中国特色社会主义法治道路相关段落",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0246",
+      "verdict": "pass",
+      "reason": "根本法效力D可支持合宪性判断，部门规章不足以代替宪法。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0247",
+      "verdict": "pass",
+      "reason": "规律需要和立法质量D；数量复杂度不能证明科学性。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0248",
+      "verdict": "pass",
+      "reason": "严格应在权限程序内履职D，非一律最重处罚。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0249",
+      "verdict": "pass",
+      "reason": "B含行权履义与尊法用法，未缩为群众被动服从。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0250",
+      "verdict": "pass",
+      "reason": "德法互补D，未把道德评价替代法律责任。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0251",
+      "verdict": "pass",
+      "reason": "AC两项属五体系；BD不是组成部分，解释补全另外三项。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-01/11/c_1126968072.htm",
+        "https://www.qstheory.cn/dukan/qs/2019-02/15/c_1124114512.htm"
+      ],
+      "locator": "总目标、总抓手、法治体系与中国特色社会主义法治道路相关段落",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "C"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0252",
+      "verdict": "pass",
+      "reason": "BCD权限程序监督均属依法行政；个人偏好不构成依据。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0253",
+      "verdict": "pass",
+      "reason": "BCD检验实施监督救济，A肯定任意绕程序不是积极评价。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0254",
+      "verdict": "pass",
+      "reason": "规范与实施监督保障等范围差别准确，manual适合解释题。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-01/11/c_1126968072.htm",
+        "https://www.qstheory.cn/dukan/qs/2019-02/15/c_1124114512.htm"
+      ],
+      "locator": "总目标、总抓手、法治体系与中国特色社会主义法治道路相关段落",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0255",
+      "verdict": "pass",
+      "reason": "程序参与知情救济减少任意，未声称程序足以保证一切实体无误。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0256",
+      "verdict": "pass",
+      "reason": "授权履职责任监督联结，回应有权有责。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0257",
+      "verdict": "pass",
+      "reason": "依法创新可授权完善规则，非任意破法或消极维持。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0258",
+      "verdict": "pass",
+      "reason": "明确已有依法陈述申辩权，答案要求保障程序；不推测适用期限处罚。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0259",
+      "verdict": "pass",
+      "reason": "受理和责任缺口对应实施监督保障，非重复立法即解决。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0260",
+      "verdict": "pass",
+      "reason": "道德批评不能代事实和法律认定，保留德治作用。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0261",
+      "verdict": "pass",
+      "reason": "C更基础广泛深厚规范概括，非仅娱乐或技艺。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0262",
+      "verdict": "pass",
+      "reason": "B方向旗帜等属意识形态问题，非所有审美必须相同。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0263",
+      "verdict": "pass",
+      "reason": "A指导地位根本制度，其他选项是具体措施。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0264",
+      "verdict": "pass",
+      "reason": "国家层面A无串位。",
+      "evidence_urls": [
+        "https://www.moe.gov.cn/jyb_xwfb/moe_2082/s7866/s8047/201405/t20140506_168564.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "教育部核心价值观三个层面说明；二十大报告第八部分",
+      "access_status": "教育部官方搜索返回正文片段，直接打开重定向失败；报告正文已读",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0265",
+      "verdict": "pass",
+      "reason": "个人层面C无串位。",
+      "evidence_urls": [
+        "https://www.moe.gov.cn/jyb_xwfb/moe_2082/s7866/s8047/201405/t20140506_168564.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "教育部核心价值观三个层面说明；二十大报告第八部分",
+      "access_status": "教育部官方搜索返回正文片段，直接打开重定向失败；报告正文已读",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0266",
+      "verdict": "pass",
+      "reason": "C社会效益优先并统一经济效益，不忽略运营条件。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0267",
+      "verdict": "pass",
+      "reason": "AB正确；C虽含统一性但混入排他性，整体不可选。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0268",
+      "verdict": "pass",
+      "reason": "ABD鉴别传承和时代发展，C全部习俗恢复错误。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0269",
+      "verdict": "pass",
+      "reason": "BCD服务质量覆盖需要，A唯面积不充分。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0270",
+      "verdict": "pass",
+      "reason": "主体自主和交流学习并存，不用外部标准全部替代。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0271",
+      "verdict": "pass",
+      "reason": "连续性与创新共同成立，非制度习俗原样不变。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0272",
+      "verdict": "pass",
+      "reason": "公益目标看实际可及而非只建设投入。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0273",
+      "verdict": "pass",
+      "reason": "技术传播与价值评价两个层次，流量不自动提供价值标准。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0274",
+      "verdict": "pass",
+      "reason": "真实遗产信息不能由仿制外观替代；答案有保护约束无个案处罚。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0275",
+      "verdict": "pass",
+      "reason": "虚假历史与唯流量两个问题均回应，未否定传播能力本身。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0276",
+      "verdict": "pass",
+      "reason": "开放错时应调整服务，而非先归责居民无需要。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0277",
+      "verdict": "pass",
+      "reason": "按劳主体D不等于唯一分配形式。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0278",
+      "verdict": "pass",
+      "reason": "B税收社保属再分配，其他项机制不同。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0279",
+      "verdict": "pass",
+      "reason": "D自愿依法为慈善前提，强制摊派与保障替代错误。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0280",
+      "verdict": "pass",
+      "reason": "B就业连接收入保障发展，但不能替代所有民生领域。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0281",
+      "verdict": "pass",
+      "reason": "D风险与基本生活稳定，非取消劳动或同等生活。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0282",
+      "verdict": "pass",
+      "reason": "B健康目标不等于建筑检查数量。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0283",
+      "verdict": "pass",
+      "reason": "BC规范要求无漏选，AD制度封闭和脱离水平错误。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "B",
+          "C"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0284",
+      "verdict": "pass",
+      "reason": "ABC三个机制配套，D慈善替报酬错误。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0285",
+      "verdict": "pass",
+      "reason": "ACD公共服务实际需求、均衡可及，非仅高支付者。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "multiple",
+      "reviewed_grading": {
+        "mode": "multiple",
+        "correct": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0286",
+      "verdict": "pass",
+      "reason": "区分生产报酬、公共调节、自愿补充，非同钱机械三分。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0287",
+      "verdict": "pass",
+      "reason": "长期责任与筹资实施能力对应，不将可持续当一概降保。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0288",
+      "verdict": "pass",
+      "reason": "收入稳定权益匹配等维度补岗位数，非虚构固定权重。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0289",
+      "verdict": "pass",
+      "reason": "预防治疗康复健康管理范围完整，不排斥必要治疗。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0290",
+      "verdict": "pass",
+      "reason": "基本统一与补充多层可并存，不涉及具体退休缴费参数。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0291",
+      "verdict": "pass",
+      "reason": "证书与真实技能就业不同，需求效果反馈对应。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0292",
+      "verdict": "pass",
+      "reason": "平均可及改善不能盖过边远障碍，分群体评价恰当。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0395",
+      "verdict": "pass",
+      "reason": "主观提纲包含国内能力与国际合作双向机制；非封闭循环。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0396",
+      "verdict": "pass",
+      "reason": "自选民用情境需知识培养、研究应用、反馈三段；主观不冒充真实项目。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0397",
+      "verdict": "pass",
+      "reason": "民主提供参与、法治保障规则和救济双向联系完整。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0398",
+      "verdict": "pass",
+      "reason": "自信、传承创新、互鉴三者联系及边界完整。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0533",
+      "verdict": "pass",
+      "reason": "阶段方位、理念原则、格局路径三者功能区分准确。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-12/06/c_1128135916.htm",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "新发展理念的创新、协调、开放、共享段与三者关系",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0534",
+      "verdict": "pass",
+      "reason": "创新重点在发展动力；其他选项对应其他理念，A唯一。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-12/06/c_1128135916.htm",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "新发展理念的创新、协调、开放、共享段与三者关系",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0535",
+      "verdict": "pass",
+      "reason": "地区和领域失衡指向协调，非仅见产业选创新。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-12/06/c_1128135916.htm",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "新发展理念的创新、协调、开放、共享段与三者关系",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0536",
+      "verdict": "pass",
+      "reason": "沿海先导与中西部东北开放同有依据；D不要求布局复制。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0537",
+      "verdict": "pass",
+      "reason": "共享针对公平正义；D不与内外联动混置。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-12/06/c_1128135916.htm",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "新发展理念的创新、协调、开放、共享段与三者关系",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0538",
+      "verdict": "pass",
+      "reason": "库存与优质产品缺口指向结构质量C，不能推出全部需求消失。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0539",
+      "verdict": "pass",
+      "reason": "两个作用及作用对象未错位，消费基础性、投资关键性，B。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0540",
+      "verdict": "pass",
+      "reason": "按业务实质依法监管；C不将新名称等同豁免。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0541",
+      "verdict": "pass",
+      "reason": "公有主体和国有主导区别准确；D与宪法第六七条对应。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0542",
+      "verdict": "pass",
+      "reason": "国有集体同属公有形式，C；二者外延不能倒置。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0543",
+      "verdict": "pass",
+      "reason": "A为非公有制制度地位；不能选国民经济主导或公有实现形式。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0544",
+      "verdict": "pass",
+      "reason": "价格供求竞争为市场机制B；税收救助不等于市场信息机制。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0545",
+      "verdict": "pass",
+      "reason": "D同时保护合法经营与规范违法行为，非按规模一刀切。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0546",
+      "verdict": "pass",
+      "reason": "人核心城镇化对应实际市民化A；材料问题不是建成区面积。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0547",
+      "verdict": "pass",
+      "reason": "对设备与业务过程的断点解释充分，非只重复数字化重要。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0548",
+      "verdict": "pass",
+      "reason": "区分进入与进入后公平经营，回应准入和基础制度两端。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0549",
+      "verdict": "pass",
+      "reason": "解释需求反馈与研究转化；不以投入或论文自动证明成效。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0550",
+      "verdict": "pass",
+      "reason": "同时交代效率、抗冲击及恢复，不以安全理由无条件重复建设。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0551",
+      "verdict": "pass",
+      "reason": "供给能力和有效需求不同，提纲直接回应负担和消费约束。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0552",
+      "verdict": "pass",
+      "reason": "事实对应技术创新和节能绿色；未虚构产量增长。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0553",
+      "verdict": "pass",
+      "reason": "区域功能差异解释生态与产业复制冲突，兼顾居民发展机会。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0554",
+      "verdict": "pass",
+      "reason": "循环堵点、创新和开放相联系，主观无自动关键词判分。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0555",
+      "verdict": "pass",
+      "reason": "基础性战略性支撑B与报告一致，非根本政治制度或全部目标。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0556",
+      "verdict": "pass",
+      "reason": "不同主体定位和配置D回应脱节，不以挂牌排名代替体系效能。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0557",
+      "verdict": "pass",
+      "reason": "B协同但责任明确，排除单方包办和推卸责任。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0558",
+      "verdict": "pass",
+      "reason": "D将品德与知识能力结合，其他项缩窄评价。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0559",
+      "verdict": "pass",
+      "reason": "优先谋划保障D不是无限投入或只数量。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0560",
+      "verdict": "pass",
+      "reason": "材料四类要素与四链A逐项对应，不泛化到所有基础研究。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0561",
+      "verdict": "pass",
+      "reason": "健康问题最直接对应人民生命健康C；其他面向可相关但非直接限定。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0562",
+      "verdict": "pass",
+      "reason": "使用许可与掌握核心能力不同；C不排斥合法技术合作。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0563",
+      "verdict": "pass",
+      "reason": "D兼顾自主能力、合作规则、知识产权，非以合作数量计自立。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0564",
+      "verdict": "pass",
+      "reason": "贡献能力和岗位匹配A回应工程师材料，破唯论文不破质量。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0565",
+      "verdict": "pass",
+      "reason": "后备梯队D回应持续性缺口，不将现有专家荣誉当培养能力。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0566",
+      "verdict": "pass",
+      "reason": "A准确把职教视为教育类型；其余项贬为附属或固定短训。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0567",
+      "verdict": "pass",
+      "reason": "持续学习通道D回应技术岗位变化，非重复学历。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0568",
+      "verdict": "pass",
+      "reason": "批准后风险变化仍需报告管理；B有伦理审查办法第十九二十条支持。",
+      "evidence_urls": [
+        "https://www.most.gov.cn/xxgk/xinxifenlei/fdzdgknr/fgzc/gfxwj/gfxwj2023/202310/t20231008_188309.html"
+      ],
+      "locator": "《科技伦理审查办法（试行）》第19、20条：批准后跟踪及风险变化报告",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0569",
+      "verdict": "pass",
+      "reason": "三大战略说明培养科研应用反馈联系，非部门分配即完成协同。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0570",
+      "verdict": "pass",
+      "reason": "形式开放与可用条件不同；考虑设备支持无障碍，未断言平台无效。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0571",
+      "verdict": "pass",
+      "reason": "分类周期评价及研究转化衔接恰当，不要求所有研究当年变现。",
+      "evidence_urls": [
+        "https://www.stats.gov.cn/sj/ndsj/2020/html/zb20.htm",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "国家统计局指标解释第基础研究、应用研究和试验发展条目；二十大报告第五部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0572",
+      "verdict": "pass",
+      "reason": "求真诚信构成可信知识基础，不能以荣誉掩盖不利结果。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0573",
+      "verdict": "pass",
+      "reason": "岗位匹配和实验支持两处事实均回应。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0574",
+      "verdict": "pass",
+      "reason": "使用工具与原理改进能力不同，不由不足推出禁用外部资源。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0575",
+      "verdict": "pass",
+      "reason": "照片不是实际劳动育人，答案以参与技能责任评价而非时长唯一。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0576",
+      "verdict": "pass",
+      "reason": "公平机会扩人才基础、优质教育增能力，保留全面育人非短期用工工具。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第五部分：教育、创新体系、创新驱动、人才强国",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0577",
+      "verdict": "pass",
+      "reason": "本质属性是全过程人民民主C；与本质特征人民当家作主分开。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0578",
+      "verdict": "pass",
+      "reason": "B扩群体层级领域而非只扩同质样本。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0579",
+      "verdict": "pass",
+      "reason": "C强调权利落地，与名称和排除意见区别明确。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0580",
+      "verdict": "pass",
+      "reason": "B程序和效能兼顾，分别识别两个极端。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0581",
+      "verdict": "pass",
+      "reason": "国家性质与组织形式B顺序准确。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0582",
+      "verdict": "pass",
+      "reason": "C监督依法履职而非包办业务，未外推所有层级都有常委会。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0583",
+      "verdict": "pass",
+      "reason": "政协专门协商机构A，非检察或立法机关。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0584",
+      "verdict": "pass",
+      "reason": "多党合作政治协商为基本政治制度D，非根本制度。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0585",
+      "verdict": "pass",
+      "reason": "四句方针对应多党合作A，非民族区划或诉讼。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0586",
+      "verdict": "pass",
+      "reason": "聚居地方A符合宪法第四条，未把所有有少数民族的社区当自治区域。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0587",
+      "verdict": "pass",
+      "reason": "居民本地自主事务指向基层自治D，非政协人大行政机关职权。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0588",
+      "verdict": "pass",
+      "reason": "共同基础与合理差异A并存，不以多样性取消方向。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0589",
+      "verdict": "pass",
+      "reason": "A事前意见进入方案修正有实质机会，未自动赋予否决权。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0590",
+      "verdict": "pass",
+      "reason": "D区分协商式监督和司法裁判效力，未将建议转为改判权。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0591",
+      "verdict": "pass",
+      "reason": "代表产生监督与依法形成统一意志两面齐全，未将集中当个人任意。",
+      "evidence_urls": [
+        "https://www.zscourt.gov.cn/flfg/content/18378/81951.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "2018年宪法序言、第3、4、6、7、8、11、57、111条及二十大报告对应部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0592",
+      "verdict": "pass",
+      "reason": "形式渠道与有效表达条件区分，回应信息程序差异。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0593",
+      "verdict": "pass",
+      "reason": "亲清兼顾积极服务与依法边界，非不接触或利益交换。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0594",
+      "verdict": "pass",
+      "reason": "主线与基本政治制度层次分开，均坚持统一领导。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0595",
+      "verdict": "pass",
+      "reason": "补线路成本影响等必要信息回应材料，不仅增加公告次数。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0596",
+      "verdict": "pass",
+      "reason": "转办监督反馈闭环回应只统计人数，未代行政机关包办。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0597",
+      "verdict": "pass",
+      "reason": "职工代表大会属于基层民主内容，邮箱不能替代机制。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0598",
+      "verdict": "pass",
+      "reason": "规划前中后及评价反馈均有对应，不以单次活动概括全过程。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第六部分：制度保障、协商、基层民主、统一战线",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0599",
+      "verdict": "pass",
+      "reason": "道路方向与目标结果C区分，非只条文数量。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0600",
+      "verdict": "pass",
+      "reason": "B规范稳定救济支持预期，不保证所有经营收益。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0601",
+      "verdict": "pass",
+      "reason": "A共同推进不机械串行；依法执政与依法行政主体有别。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0602",
+      "verdict": "pass",
+      "reason": "C一体建设不是科学立法等工作环节，三层相互支撑。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0603",
+      "verdict": "pass",
+      "reason": "法治政府主体A有2019求是及2021法治理论依据；与2022主体工程语境相容。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2019-02/15/c_1124114512.htm",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "《新时代全面依法治国的根本遵循》三者关系段；二十大报告第七部分（二）",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0604",
+      "verdict": "pass",
+      "reason": "群众观念习惯对应法治社会C，非法院文书或立法权限。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0605",
+      "verdict": "pass",
+      "reason": "反对重制定轻落实C；否定问法未误排有效实施。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0606",
+      "verdict": "pass",
+      "reason": "C立改废释纂衔接解决规则冲突，非只增文件。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0607",
+      "verdict": "pass",
+      "reason": "征求意见汇智识别影响C，不给参与者立法机关身份。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0608",
+      "verdict": "pass",
+      "reason": "A权限程序上位法约束，正当目的不自动授权。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0609",
+      "verdict": "pass",
+      "reason": "B公正司法最后防线为报告表述，非容许前端不公。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0610",
+      "verdict": "pass",
+      "reason": "D事实法律是裁判依据，舆情身份不能替代证据。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0611",
+      "verdict": "pass",
+      "reason": "B同等条件同标准并依法区分事实，避免机械同罚。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0612",
+      "verdict": "pass",
+      "reason": "人员经费技术是保障条件C，非规范或监督本身。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/qshyjx/2021-01/11/c_1126968072.htm",
+        "https://www.qstheory.cn/dukan/qs/2019-02/15/c_1124114512.htm"
+      ],
+      "locator": "总目标、总抓手、法治体系与中国特色社会主义法治道路相关段落",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0613",
+      "verdict": "pass",
+      "reason": "裁量标准与事实认定相配合，统一不意味着无差别处理。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0614",
+      "verdict": "pass",
+      "reason": "党内法规与国家法律适用及责任机制不同，不能党纪代法律责任。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0615",
+      "verdict": "pass",
+      "reason": "关键少数示范和全民守法基础并存，不把全体义务取消。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0616",
+      "verdict": "pass",
+      "reason": "涉外合作权利争议需法治衔接，未给虚构案件意见。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0617",
+      "verdict": "pass",
+      "reason": "目标正当不足证明措施适当，核对事实权限程序和救济合理。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0618",
+      "verdict": "pass",
+      "reason": "说明依据和救济回应透明与纠错，材料不足未编时限。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0619",
+      "verdict": "pass",
+      "reason": "平台建成与实际可及不同，适老支持对应题干。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0620",
+      "verdict": "pass",
+      "reason": "四环节形成反馈关系，manual不机械关键词判分。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0621",
+      "verdict": "pass",
+      "reason": "C认同吸引精神影响属于软实力，非物流和成本指标。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0622",
+      "verdict": "pass",
+      "reason": "D来源人民实践并服务人民，非销量唯一。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0623",
+      "verdict": "pass",
+      "reason": "A制度生活可载价值观，非只设课宣讲。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0624",
+      "verdict": "pass",
+      "reason": "A凝练表达并非完全等同价值体系范围。",
+      "evidence_urls": [
+        "https://www.moe.gov.cn/jyb_xwfb/moe_2082/s7866/s8047/201405/t20140506_168564.html",
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "教育部核心价值观三个层面说明；二十大报告第八部分",
+      "access_status": "教育部官方搜索返回正文片段，直接打开重定向失败；报告正文已读",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0625",
+      "verdict": "pass",
+      "reason": "A共同方向凝聚，不能保证每个产品自动获认同。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0626",
+      "verdict": "pass",
+      "reason": "D历史根基与当代实践共同解释，非复古还原。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0627",
+      "verdict": "pass",
+      "reason": "D新表达回应新生活体现创新，不与传承断裂。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0628",
+      "verdict": "pass",
+      "reason": "D兼收并蓄直接指包容，题干限定文化态度排除泛泛创新。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0629",
+      "verdict": "pass",
+      "reason": "B向内凝聚与统一取向，不否认地域多样。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0630",
+      "verdict": "pass",
+      "reason": "D否定国强必霸推理，和平非放弃权益。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0631",
+      "verdict": "pass",
+      "reason": "B补充拓展完善内涵对应创新性发展，两创有联系不机械割裂。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0632",
+      "verdict": "pass",
+      "reason": "C基本文化权益需公益供给，不以商业消费能力代保障。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0633",
+      "verdict": "pass",
+      "reason": "D文化赋旅游内涵、旅游传播文化双向对应。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0634",
+      "verdict": "pass",
+      "reason": "C关注受众理解、事实和效果，非篇数术语堆积。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0635",
+      "verdict": "pass",
+      "reason": "中国经验到理论与精神自主，回应只说历史悠久不足。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0636",
+      "verdict": "pass",
+      "reason": "实物事实与精神阐释相支撑，不以场馆规模代学习效果。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0637",
+      "verdict": "pass",
+      "reason": "竞技和群众体育分别说明功能且相衔接，不能奖牌代全民。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0638",
+      "verdict": "pass",
+      "reason": "内容、引导、治理各有作用，删除不良不等于自动生成优质文化。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0639",
+      "verdict": "pass",
+      "reason": "数字副本不能替代环境材料空间，回应整体保护。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0640",
+      "verdict": "pass",
+      "reason": "从报名热情到分工培训接续，且保留公共责任。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0641",
+      "verdict": "pass",
+      "reason": "译文之外补背景实例反馈，禁止靠编故事取认同。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第八部分：文化事业、核心价值观与传播",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0642",
+      "verdict": "pass",
+      "reason": "三特性联系与边界充分，不只列名词。",
+      "evidence_urls": [
+        "https://www.qstheory.cn/dukan/qs/2023-08/31/c_1129834700.htm"
+      ],
+      "locator": "2023年6月2日文化传承发展座谈会讲话第一、二、三部分",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0643",
+      "verdict": "pass",
+      "reason": "D基本、普及和底线对应三要求，非整齐同消费。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0644",
+      "verdict": "pass",
+      "reason": "D岗位转岗保障是产业转型就业影响，产值无法代替。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0645",
+      "verdict": "pass",
+      "reason": "B先调查技能信息流动错配，不凭并存现象定性所有企业劳动者。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0646",
+      "verdict": "pass",
+      "reason": "A生产经营劳动报酬属于初次分配，非最终领取者决定次数。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0647",
+      "verdict": "pass",
+      "reason": "D两项比重对象分母均正确，未把国民收入和初次分配对调。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0648",
+      "verdict": "pass",
+      "reason": "D合法保护、过高调节、非法取缔顺序准确。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0649",
+      "verdict": "pass",
+      "reason": "D低收入增收与扩大中等群体，非机械平均。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0650",
+      "verdict": "pass",
+      "reason": "A城乡统筹衔接回应流动连续性，未编参保转移流程。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "A"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0651",
+      "verdict": "pass",
+      "reason": "C基本机会权益均衡，非设施消费完全一致。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0652",
+      "verdict": "pass",
+      "reason": "C诊疗与防控健康管理衔接对应医防融合。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0653",
+      "verdict": "pass",
+      "reason": "C照护上支持适宜参与，非活动替照护或不分差异。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0654",
+      "verdict": "pass",
+      "reason": "D基层基础须资源责任支持，非上级推责。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "D"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0655",
+      "verdict": "pass",
+      "reason": "C三者侧重按过程与结果正确对应，非同收益。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "C"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0656",
+      "verdict": "pass",
+      "reason": "B源头规则服务与个案调解联结，不搁置现有争议。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "single",
+      "reviewed_grading": {
+        "mode": "single",
+        "correct": "B"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0657",
+      "verdict": "pass",
+      "reason": "补助不能代长期养育教育服务，答案不涉及具体补贴数额。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0658",
+      "verdict": "pass",
+      "reason": "技能与机会制度环境同时分析，未把困难全归个人。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0659",
+      "verdict": "pass",
+      "reason": "保险风险分担与救助困难兜底区分，适用条件不混同。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0660",
+      "verdict": "pass",
+      "reason": "多方参与但政府依法履职，治理协同不等退出。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "short",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0661",
+      "verdict": "pass",
+      "reason": "机会与权益渠道两面回应；劳动关系需事实调查，不一概定性。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0662",
+      "verdict": "pass",
+      "reason": "权责资源相适应回应任务下压，非全部退回上级。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0663",
+      "verdict": "pass",
+      "reason": "心理健康纳入公共服务与专业转介，未对个人诊断或给治疗方案。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "analysis",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0664",
+      "verdict": "pass",
+      "reason": "预防、依法处置、公共服务有反馈链，服务不能替法定权益。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第九部分及第十一部分（四）：民生、分配、健康、社会治理",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0797",
+      "verdict": "pass",
+      "reason": "三个理论视角均对应绿色岗位、技能缺口和公共服务，未将岗位总增等同人人受益。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第四部分：市场体制、产业体系、乡村振兴、区域协调及开放",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    },
+    {
+      "id": "XG15040-D-0798",
+      "verdict": "pass",
+      "reason": "效率、信息处理依据、适老参与与申诉四处事实有回应，无越事实法律定性。",
+      "evidence_urls": [
+        "https://app.www.gov.cn/govdata/gov/202210/25/493662/article.html"
+      ],
+      "locator": "二十大报告第七部分：立法、行政、司法和法治社会",
+      "access_status": "已访问正文并核对相关段落",
+      "verification_date": "2026-09-23",
+      "type": "essay",
+      "reviewed_grading": {
+        "mode": "manual"
+      },
+      "answer_scope": "自编练习，非官方评分",
+      "after_fix": "无需内容改动"
+    }
+  ]
+}

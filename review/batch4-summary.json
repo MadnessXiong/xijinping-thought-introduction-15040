@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-13",
+  "added": 400,
+  "reviewed": 400,
+  "carried": 410,
+  "total": 810,
+  "answerable": 808,
+  "D": 800,
+  "C": 10,
+  "A": 0,
+  "B": 0,
+  "excluded": 2,
+  "edited_draft_ids": 293,
+  "single": 409,
+  "multiple": 74,
+  "blank": 1,
+  "manual": 324,
+  "program_groups": 23,
+  "focus_groups": 18,
+  "focus_links": 54,
+  "reference_files_unchanged": 4,
+  "reference_files_different_from_historical_baseline": [
+    "C:\\Users\\30916\\Documents\\ChatGPT\\New project\\opendesign\\mockups\\13015-practice\\bank.json",
+    "C:\\Users\\30916\\Documents\\ChatGPT\\New project\\opendesign\\mockups\\13015-practice\\index.html"
+  ]
+}

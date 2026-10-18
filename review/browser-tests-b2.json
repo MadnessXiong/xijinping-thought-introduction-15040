@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-13",
+  "batch": 2,
+  "browser": "Codex In-app Browser",
+  "test_url": "http://localhost:8289/opendesign/mockups/15040-practice/index.html",
+  "results": [
+    {
+      "test": "扩充与旧记录恢复",
+      "status": "PASS",
+      "evidence": "同一路径加载累计110条，默认108条；已有首批测试作答仍显示，未重排ID。"
+    },
+    {
+      "test": "题型分类及多选完整集合",
+      "status": "PASS",
+      "evidence": "切换多选得到20题；D0067选AB反馈错误，重答ABD反馈正确；解析与修正后的工作布局问法对应。"
+    },
+    {
+      "test": "导航顺序",
+      "status": "PASS",
+      "evidence": "D0067下一题为D0071，上一题回到D0067，与题号导航一致。"
+    },
+    {
+      "test": "知识模块、来源、搜索叠加",
+      "status": "PASS",
+      "evidence": "民主与法治＋2024-10＋法治道路，范围只剩新增C202410-030。"
+    },
+    {
+      "test": "新增主观题草稿与自评",
+      "status": "PASS",
+      "evidence": "C202410-030输入三个方面后刷新，草稿保留；提交显示相应参考答案，自评已掌握后人工数增加而不混入自动正确率。"
+    },
+    {
+      "test": "首批实际导出文件导入兼容",
+      "status": "PASS",
+      "evidence": "用首批实际导出的browser-export.json经文件选择器导入，提示合并5条、未知ID 0条、待重新核对1条、分类恢复。该1条是首批测试刻意构造revision=2，不是本批改了旧答案。"
+    },
+    {
+      "test": "新增否定问法",
+      "status": "PASS",
+      "evidence": "D0030选择D后反馈正确。桌面截图发现提交前review_note泄露答案字母，发布前删除字母提示，重新构建。"
+    },
+    {
+      "test": "章节分类及手机布局",
+      "status": "PASS",
+      "evidence": "390×844视口展开筛选、重置、选择第17章，再收起筛选；6题范围中D0100可选中，末题下一题禁用。截图检查输入框和导航无重叠；DOM内容宽375、scrollWidth375，无横向溢出。测试后恢复默认视口。"
+    },
+    {
+      "test": "桌面布局与脚本日志",
+      "status": "PASS",
+      "evidence": "桌面截图显示原三栏结构，长选项可读；测试阶段error/warn日志为空。"
+    },
+    {
+      "test": "首批未改变功能的既有验证",
+      "status": "CARRIED",
+      "evidence": "无结果/重置、错题/未答/随机、填空人工边界、疑题开关与不计分、跨课程拒绝、实际导出往返和书册初版屏幕排版沿用首批浏览器记录。本批对对应纯逻辑重新回归，但没有把首批操作写成本批重新点击。"
+    },
+    {
+      "test": "双击file://",
+      "status": "LIMITATION",
+      "evidence": "首批内置浏览器URL安全策略禁止file://，本批未尝试绕过。当前单文件在localhost实测，并检查内嵌JSON与无远程资源；不能据此声称已在真实双击环境实测。"
+    },
+    {
+      "test": "书册分页",
+      "status": "LIMITATION",
+      "evidence": "第二批同步生成110条的题目册和独立答案册，静态检查记录数及链接；没有逐页打印或PDF分页验收。"
+    }
+  ],
+  "carried_report": "browser-tests-b1.json"
+}

@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-13",
+  "batch": 4,
+  "local_links_checked": 133,
+  "broken": [],
+  "books": [
+    {
+      "file": "题目册.html",
+      "all_810_ids_present": true
+    },
+    {
+      "file": "答案解析册.html",
+      "all_810_ids_present": true
+    }
+  ],
+  "note": "只检查离线文件与书册ID完整性；不保证外部来源永久可访问，不是分页视觉验收。"
+}

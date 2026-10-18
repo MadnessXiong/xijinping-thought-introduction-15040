@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-13",
+  "added": 300,
+  "reviewed": 300,
+  "carried": 110,
+  "total": 410,
+  "answerable": 408,
+  "D": 400,
+  "C": 10,
+  "excluded": 2,
+  "auto_single": 157,
+  "multiple": 74,
+  "multiple_combinations": 1248,
+  "manual": 176,
+  "blank": 1,
+  "program_groups": 18,
+  "reference_files_unchanged": 6
+}

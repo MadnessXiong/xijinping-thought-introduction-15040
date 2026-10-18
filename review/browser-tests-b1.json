@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-13",
+  "browser": "Codex In-app Browser",
+  "test_url": "http://localhost:8289/opendesign/mockups/15040-practice/index.html",
+  "results": [
+    {
+      "test": "三种分类与具体分类",
+      "status": "PASS",
+      "evidence": "章节第9章、题型多选、知识模块文化建设与民生治理及生态文明与国家安全均实际切换，导航范围一致。"
+    },
+    {
+      "test": "搜索与来源叠加",
+      "status": "PASS",
+      "evidence": "知识模块＋2025-04＋“文明”仅剩C202504-030；不存在词显示空状态，重置恢复。"
+    },
+    {
+      "test": "单选对错及重复作答",
+      "status": "PASS",
+      "evidence": "D0001选A反馈有误，重答C反馈正确；已提交仍为1。解析对应两个结合。"
+    },
+    {
+      "test": "多选交互",
+      "status": "PASS",
+      "evidence": "D0011只选A判错，选A/C/D/E判对；界面明确漏选多选均错。D0017前后导航与顺序一致。"
+    },
+    {
+      "test": "主观自评",
+      "status": "PASS",
+      "evidence": "C202504-030提交后显示五个特性与自评按钮；点击已掌握，人工自评数增加，自动正确率保持100%。"
+    },
+    {
+      "test": "填空自动与人工边界",
+      "status": "PASS",
+      "evidence": "D0023“法治的体系”显示人工核对；自评独立。重答“法治体系”自动判对。"
+    },
+    {
+      "test": "草稿与刷新恢复",
+      "status": "PASS",
+      "evidence": "C202504-030文字草稿刷新后原样保留，knowledge分类和“文明”搜索恢复；D0006草稿切到下一题再返回仍保留。"
+    },
+    {
+      "test": "待核资料、疑题与计分",
+      "status": "PASS",
+      "evidence": "关闭C类后28题；开启疑题检索C202604-023，缺文诊断不增加已提交数，不出现自评记分。"
+    },
+    {
+      "test": "全部、错题、尚未作答与随机",
+      "status": "PASS",
+      "evidence": "实际点击各模式，当前范围更新；随机按钮转到另一ID。错题和未答计数按测试状态变化。"
+    },
+    {
+      "test": "有效备份导入",
+      "status": "PASS",
+      "evidence": "通过文件选择器导入D0006草稿fixture，恢复题型short和当前题。"
+    },
+    {
+      "test": "修订记录兼容",
+      "status": "PASS",
+      "evidence": "导入D0001不同revision记录，旧答案保留，提示重新核对；统计出现待复核1题，旧自动分退出。"
+    },
+    {
+      "test": "修订后重新提交与来源弹窗",
+      "status": "PASS",
+      "evidence": "D0001保留选项重新提交后正确，待复核提示退出统计；来源弹窗显示逐考期说明，关闭正常。"
+    },
+    {
+      "test": "跨课程备份拒绝",
+      "status": "PASS",
+      "evidence": "导入course_code为13015测试文件，显示请选择15040本课程备份，无跨课程记录混入。"
+    },
+    {
+      "test": "实际导出及往返",
+      "status": "PASS",
+      "evidence": "点击导出在Downloads生成2094字节JSON；事件监听超时但文件实际存在。读取验证format与6条测试记录，复制为browser-export.json并用网页重新导入，提示合并6条、待核对1条、分类恢复。"
+    },
+    {
+      "test": "桌面布局",
+      "status": "PASS",
+      "evidence": "默认桌面截图检查三栏：左筛选、中央题目、右分组导航；未见重叠。"
+    },
+    {
+      "test": "手机布局",
+      "status": "PASS",
+      "evidence": "390×844视口截图，内容宽375含滚动条；document.scrollWidth与clientWidth均375，无横向溢出。展开筛选并选择知识模块成功。"
+    },
+    {
+      "test": "最终浏览器脚本错误",
+      "status": "PASS",
+      "evidence": "开发日志检查未返回error或warn；最后样式/静态选项清理后reload正常显示当前3题。"
+    },
+    {
+      "test": "双击file://实际运行",
+      "status": "BLOCKED",
+      "evidence": "内置浏览器URL安全策略禁止file://访问；没有绕过限制。已验证localhost中同一单文件运行、内嵌题库一致、无外部脚本样式及CSP禁止远程依赖；不能把这些写成已完成双击实测。"
+    },
+    {
+      "test": "书册排版",
+      "status": "PASS",
+      "evidence": "实际打开题目册与答案册，检查页面标题、无答案题册和独立答案册及屏幕排版。提供打印CSS；未执行打印机或导出PDF的逐页分页验收。"
+    }
+  ],
+  "note": "浏览器测试使用此新课程测试记录；不触碰13015进度。file://访问受工具策略限制，未尝试绕过。"
+}
